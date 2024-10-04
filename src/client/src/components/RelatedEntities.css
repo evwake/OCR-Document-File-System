@@ -1,0 +1,8 @@
+.header-row{
+    background-color: lightgray;
+}
+
+.entity-container{
+    display: flex;
+    justify-content: center;
+}

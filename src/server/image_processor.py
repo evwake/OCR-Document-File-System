@@ -53,7 +53,7 @@ def process_image(image, filename):
 def parse_directory(folder_filepath, neo4j, mongo):
     global num_files_processed
     files = os.listdir(folder_filepath)
-    for file in files[:5]:
+    for file in files:
         file_filepath = folder_filepath + "/" + file
         if "." in file_filepath[1:]:
             print("Parsing", file_filepath)

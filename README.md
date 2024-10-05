@@ -107,7 +107,7 @@ The OCR Document File System is a full-stack application that enables users to v
      - [MongoDB Installation Guide](https://www.mongodb.com/docs/manual/installation/#std-label-tutorial-installation)
 
 5. **Set up Tesseract**:
-   - Follow the instructions below to install and run the databases:
+   - Follow the instructions below to install Tesseract:
      - [Tesseract Installation Guide](https://tesseract-ocr.github.io/tessdoc/Installation.html)
 
 6. **Install python dependencies**:
